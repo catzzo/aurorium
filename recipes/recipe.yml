@@ -27,8 +27,11 @@ modules:
         - micro
         - niri
         - dms
-      exclude: 
         - helix
+        - xdg-desktop-portal-kde
+        - plasma-breeze
+        - breeze-gtk 
+      exclude: 
         - waybar
         - fuzzel
 
